@@ -1,0 +1,102 @@
+[
+  {
+    "id": "protein-increase",
+    "strategy_zh": "提高蛋白質攝取（抗肌少症）",
+    "priority": "high",
+    "evidence_grade": "A",
+    "recommendation_zh": "每日蛋白質攝取 1.2–1.6g/kg 體重（更年期女性高於一般成人建議 0.8g/kg）",
+    "mechanism_zh": "更年期後合成代謝阻抗（anabolic resistance）增加，相同蛋白質攝取量的肌肉合成效率下降約 25–30%。提高攝取量可補償此效率損失",
+    "taiwan_foods_zh": [
+      "雞胸肉（超商雞胸沙拉）：23g 蛋白質/100g",
+      "板豆腐：8g/100g，同時補鈣",
+      "無糖希臘優格：8.5g/100g，含益生菌",
+      "毛豆：11g/100g，超商便利取得",
+      "吳郭魚（清蒸）：19g/100g，台灣傳統市場便宜"
+    ],
+    "practical_note_zh": "建議每餐蛋白質達 25–30g，而非集中在晚餐。台灣自助餐可同時選雞腿（或雞胸）+ 豆腐，單餐可達 35–45g",
+    "source": "Bauer J et al. (2013) PROT-AGE Study Group. J Am Med Dir Assoc. PMID: 23867520",
+    "_meta": { "last_updated": "2026-04-16" }
+  },
+  {
+    "id": "calcium-vitamin-d",
+    "strategy_zh": "鈣與維生素 D 充足攝取（骨質保護）",
+    "priority": "high",
+    "evidence_grade": "A",
+    "recommendation_zh": "鈣 1000–1200mg/天；維生素 D3 800–1000 IU/天（血清 25(OH)D 目標 50–80 nmol/L）",
+    "mechanism_zh": "停經後雌激素下降導致破骨細胞活性增加、腸道鈣吸收下降。每年骨密度流失約 1–2%，前 5 年流失最快（可達 3–5%/年）",
+    "taiwan_foods_zh": [
+      "低脂牛奶（240ml）：240mg 鈣 + D3 強化品牌約 3μg/杯",
+      "板豆腐（石膏豆腐，100g）：140mg 鈣",
+      "黑芝麻（1 湯匙 15g）：146mg 鈣",
+      "青江菜（燙熟，100g）：105mg 鈣，吸收率 50%",
+      "小魚乾（30g）：290mg 鈣"
+    ],
+    "supplement_note_zh": "台灣女性飲食鈣攝取平均每日約 550mg（遠低於建議量）。建議補充碳酸鈣 500mg（飯後吸收最佳），或檸檬酸鈣 400mg（空腹亦可）。同時補充維生素 D3 以確保鈣吸收",
+    "source": "衛福部 DRIs 第八版（2020）；Boonen S et al. (2011) J Intern Med. PMID: 21223411",
+    "_meta": { "last_updated": "2026-04-16" }
+  },
+  {
+    "id": "reduce-refined-carbs",
+    "strategy_zh": "減少精製碳水與加糖飲料（應對胰島素阻抗）",
+    "priority": "high",
+    "evidence_grade": "A",
+    "recommendation_zh": "精製碳水（白米、白麵、含糖飲料）攝取減少 30–50%，以全穀、豆類取代",
+    "mechanism_zh": "更年期後胰島素敏感性下降，相同碳水化合物攝取產生更高血糖峰值。高血糖觸發更多胰島素分泌，促進脂肪（尤其腹部）儲存",
+    "taiwan_practical_zh": [
+      "白飯改為糙米或糙米白米混煮（1:1）",
+      "手搖飲改無糖或半糖（台灣手搖飲全糖 = 50–100g 糖/杯）",
+      "便當少飯，增加蔬菜和蛋白質比例",
+      "麵食選蕎麥麵（GI 50）優先於白麵（GI 82）"
+    ],
+    "glycemic_index_targets_zh": "全日飲食 GI 值目標 < 55（低 GI 飲食）。台灣實證：低 GI 飲食 12 週可降低 HbA1c 0.5%，減少腰圍 2–3cm",
+    "source": "Livesey G et al. (2019) Am J Clin Nutr. PMID: 30722007（系統性回顧，低 GI 飲食與代謝）",
+    "_meta": { "last_updated": "2026-04-16" }
+  },
+  {
+    "id": "phytoestrogen-foods",
+    "strategy_zh": "植物雌激素食物（大豆異黃酮）",
+    "priority": "medium",
+    "evidence_grade": "B",
+    "recommendation_zh": "每日攝取大豆異黃酮 40–70mg（約 2–3 份豆類食物），可能有助緩解熱潮紅",
+    "mechanism_zh": "大豆異黃酮（genistein、daidzein）與雌激素受體結合，活性約為雌激素的 1/1000–1/10000，可部分補償雌激素下降",
+    "taiwan_foods_zh": [
+      "豆漿（250ml）：25–40mg 異黃酮",
+      "板豆腐（100g）：20–30mg 異黃酮",
+      "天貝（100g）：40–60mg 異黃酮（發酵增強生物利用率）",
+      "毛豆（100g）：16mg 異黃酮",
+      "味噌（10g）：4–6mg 異黃酮"
+    ],
+    "safety_note_zh": "目前研究顯示每日 < 100mg 大豆異黃酮在有乳癌家族史女性中是安全的（Messina M, 2016）。但乳癌患者應諮詢主治醫師。台灣傳統飲食中豆類食物普遍，一般攝取量通常在安全範圍內",
+    "source": "Messina M (2016) Am J Clin Nutr. PMID: 26864360；Chen MN et al. (2015) Maturitas. PMID: 25845307",
+    "_meta": { "last_updated": "2026-04-16" }
+  },
+  {
+    "id": "mediterranean-pattern",
+    "strategy_zh": "地中海飲食模式（整體代謝保護）",
+    "priority": "medium",
+    "evidence_grade": "A",
+    "recommendation_zh": "採用地中海飲食核心原則：高蔬果、全穀、豆類、橄欖油，適量魚、低紅肉",
+    "mechanism_zh": "地中海飲食具有抗發炎、改善胰島素敏感性、降低心血管風險的多重效益。更年期後心血管風險上升（失去雌激素的心臟保護），飲食調整尤為重要",
+    "taiwan_adaptation_zh": [
+      "橄欖油取代豬油炒菜（台灣自助餐可要求少油）",
+      "每週 2–3 次深海魚（鯖魚、秋刀魚，台灣超市常見）",
+      "以糙米飯 + 雜糧取代全白米",
+      "豆腐、毛豆取代部分紅肉蛋白質來源",
+      "深色蔬菜（青花菜、菠菜）每日 2–3 份"
+    ],
+    "weight_outcome_zh": "PREDIMED 研究（n=7,447）顯示地中海飲食在 5 年追蹤中腰圍增加較對照組少 0.85cm，且減少 30% 心血管事件",
+    "source": "Estruch R et al. (2018) N Engl J Med. PMID: 29897866（PREDIMED）",
+    "_meta": { "last_updated": "2026-04-16" }
+  },
+  {
+    "id": "alcohol-reduction",
+    "strategy_zh": "減少酒精攝取",
+    "priority": "medium",
+    "evidence_grade": "B",
+    "recommendation_zh": "停經女性每日酒精攝取 ≤ 1 份（= 14g 純酒精 = 台灣金牌啤酒 350ml 1 罐）",
+    "mechanism_zh": "酒精在更年期女性代謝速度變慢。酒精熱量（7 kcal/g）直接累積，且抑制脂肪氧化。此外，酒精加重熱潮紅症狀並干擾睡眠，間接影響體重管理",
+    "breast_cancer_note_zh": "即使少量飲酒（每日 1 份）也與乳癌風險增加 7–10% 相關（更年期女性特別注意）",
+    "source": "Allen NE et al. (2009) J Natl Cancer Inst. PMID: 19244173",
+    "_meta": { "last_updated": "2026-04-16" }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "estrogen-decline",
+    "hormone": "雌激素（Estradiol）",
+    "change_type": "decline",
+    "perimenopause_change_zh": "波動下降，可能在停經前 4–6 年開始",
+    "postmenopause_change_zh": "停經後持續低水平（< 20 pg/mL），下降幅度約 80–90%",
+    "weight_impact": {
+      "mechanism_zh": "雌激素調控脂肪分布。下降後脂肪從皮下（臀股部位）重新分布至腹部內臟，即使體重不變，腰圍也會增加",
+      "metabolic_effect_zh": "雌激素參與胰島素敏感性調節。低雌激素導致胰島素抵抗增加，血糖波動更大，脂肪儲存傾向提高",
+      "appetite_effect_zh": "雌激素有抑制食慾作用（類似 leptin 作用增強）。下降後飽食感降低，食量可能不自覺增加",
+      "muscle_effect_zh": "雌激素有輕微合成代謝作用。下降後肌肉流失速度加快，導致靜止代謝率（RMR）每 10 年約降低 2–3%"
+    },
+    "taiwan_prevalence_zh": "台灣女性平均停經年齡 50.3 歲（衛福部國健署 2019）。圍停經期（perimenopause）通常始於 45–47 歲，持續 4–8 年",
+    "source": "Lovejoy JC et al. (2008) Int J Obes. PMID: 18209750；Davis SR et al. (2012) J Clin Endocrinol Metab. PMID: 22723322",
+    "_meta": { "last_updated": "2026-04-16" }
+  },
+  {
+    "id": "progesterone-decline",
+    "hormone": "黃體素（Progesterone）",
+    "change_type": "decline",
+    "perimenopause_change_zh": "通常比雌激素更早開始波動下降（黃體期縮短是早期信號）",
+    "postmenopause_change_zh": "停經後接近零",
+    "weight_impact": {
+      "mechanism_zh": "黃體素有輕微利尿作用。下降後水分滯留（水腫）更明顯，可能造成體重短暫上升 1–2 公斤",
+      "metabolic_effect_zh": "黃體素對代謝影響較小，主要透過影響情緒（焦慮、睡眠）間接影響飲食行為和活動量",
+      "sleep_effect_zh": "黃體素有鎮靜效果。下降後失眠增加，而睡眠不足會提高 Ghrelin（飢餓素）並降低 Leptin，導致食慾失調"
+    },
+    "source": "Prior JC (1998) Osteoporosis Int. PMID: 9825377",
+    "_meta": { "last_updated": "2026-04-16" }
+  },
+  {
+    "id": "cortisol-relative-increase",
+    "hormone": "皮質醇（Cortisol）相對升高",
+    "change_type": "relative_increase",
+    "perimenopause_change_zh": "絕對值不一定升高，但雌激素下降後皮質醇相對作用增強",
+    "postmenopause_change_zh": "腹部脂肪組織皮質醇敏感性增加",
+    "weight_impact": {
+      "mechanism_zh": "皮質醇促進腹部（內臟）脂肪儲存。更年期期間壓力反應和睡眠問題雙重疊加，皮質醇水平可能持續偏高",
+      "metabolic_effect_zh": "皮質醇升高會抑制甲狀腺功能、增加食慾（尤其對高糖高脂食物）、降低胰島素敏感性",
+      "visceral_fat_zh": "腹部內臟脂肪組織含有更多皮質醇受體（glucocorticoid receptor），是更年期腹部肥胖的主要機制之一"
+    },
+    "source": "Epel ES et al. (2000) Psychosom Med. PMID: 10956783",
+    "_meta": { "last_updated": "2026-04-16" }
+  },
+  {
+    "id": "metabolism-slowdown",
+    "hormone": "靜止代謝率（RMR）下降",
+    "change_type": "decline",
+    "perimenopause_change_zh": "變化不明顯",
+    "postmenopause_change_zh": "肌肉量流失加速（肌少症）導致 RMR 每 10 年約下降 100–200 kcal/天",
+    "weight_impact": {
+      "mechanism_zh": "肌肉是主要代謝組織（每公斤肌肉每天消耗約 13 kcal）。停經後肌肉流失加速，若飲食熱量不調整，每年約增加 0.5–1 公斤體重",
+      "practical_implication_zh": "50 歲後維持相同飲食習慣卻體重增加，主要原因是代謝率下降而非食量增加。建議每 5 年重新評估 TDEE 並調整飲食",
+      "exercise_solution_zh": "阻力訓練（每週 2–3 次）是目前證據最強的更年期代謝率維持策略，優先於有氧運動"
+    },
+    "average_weight_gain_zh": "停經前後平均體重增加 2–5 公斤（10 年）。但研究顯示這部分是老化而非更年期本身造成；更年期特有的變化是脂肪從皮下轉移至內臟",
+    "source": "Sternfeld B et al. (2014) Menopause. PMID: 24423981；Greendale GA et al. (2019) Menopause. PMID: 30358614",
+    "_meta": { "last_updated": "2026-04-16" }
+  }
+]

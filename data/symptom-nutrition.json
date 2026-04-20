@@ -1,0 +1,79 @@
+[
+  {
+    "id": "hot-flashes",
+    "symptom_zh": "熱潮紅（Hot flashes）",
+    "prevalence_taiwan_zh": "台灣更年期女性約 47–62% 經歷（低於歐美 75–80%，可能與豆類飲食習慣有關）",
+    "trigger_foods_zh": [
+      "辛辣食物（辣椒、花椒）",
+      "酒精（尤其紅酒）",
+      "咖啡因（咖啡、茶，部分女性有感）",
+      "過熱食物和飲料"
+    ],
+    "helpful_foods_zh": [
+      "大豆異黃酮食物：豆漿（每日 2 杯）、板豆腐、天貝",
+      "亞麻籽：含木脂素（lignans），具弱植物雌激素作用",
+      "富含鎂食物：南瓜籽（8.1mg Fe/100g）、杏仁、糙米（有助睡眠和血管舒張）"
+    ],
+    "evidence_note_zh": "大豆異黃酮對熱潮紅的效果在 RCT 中結果不一致。整體研究顯示每日 50mg 異黃酮可減少熱潮紅頻率約 20%（Lethaby A et al., 2007 Cochrane review）",
+    "source": "Lethaby A et al. (2007) Cochrane Database Syst Rev. PMID: 17636797",
+    "_meta": { "last_updated": "2026-04-16" }
+  },
+  {
+    "id": "sleep-disturbance",
+    "symptom_zh": "失眠與睡眠障礙",
+    "prevalence_taiwan_zh": "更年期女性失眠盛行率約 40–60%",
+    "mechanism_zh": "黃體素下降（失去鎮靜作用）、熱潮紅夜間盜汗打擾睡眠、皮質醇節律改變",
+    "trigger_foods_zh": [
+      "下午 2 點後咖啡因（半衰期 5–7 小時）",
+      "晚餐高糖食物（血糖波動影響睡眠連續性）",
+      "酒精（雖有助入睡但破壞深層睡眠）"
+    ],
+    "helpful_foods_zh": [
+      "奇異果（每晚 2 顆）：PMID 23136388 研究顯示改善睡眠時長 13%，入睡時間縮短 35%",
+      "含色胺酸食物（睡前）：低脂牛奶（250ml）、香蕉、板豆腐",
+      "含鎂食物：黑芝麻、南瓜籽、糙米（鎂調節 GABA 受體，有放鬆作用）",
+      "無糖希臘優格（睡前）：酪蛋白提供夜間胺基酸供應，色胺酸促進血清素合成"
+    ],
+    "taiwan_note_zh": "台灣奇異果（紐西蘭 Zespri 品種）是目前唯一有 RCT 支持改善更年期相關失眠的水果。台灣全家、7-11 均有售",
+    "source": "Lin HH et al. (2011) Asia Pac J Clin Nutr. PMID: 23136388",
+    "_meta": { "last_updated": "2026-04-16" }
+  },
+  {
+    "id": "mood-anxiety",
+    "symptom_zh": "情緒波動與焦慮",
+    "prevalence_taiwan_zh": "更年期女性情緒症狀盛行率約 30–50%",
+    "mechanism_zh": "雌激素調節血清素（serotonin）合成與代謝。下降後血清素系統失調，情緒調節能力降低。睡眠不足進一步加重情緒問題",
+    "trigger_foods_zh": [
+      "高糖食物（血糖急升急降影響情緒穩定性）",
+      "過多咖啡因（超過 400mg/天，約 3 杯咖啡）"
+    ],
+    "helpful_foods_zh": [
+      "Omega-3 富含食物：鯖魚、秋刀魚（每週 2–3 次）",
+      "發酵食物（腸道-腦軸）：無糖優格、納豆、泡菜（台灣超市均有）",
+      "含色胺酸食物：豆漿、南瓜籽、板豆腐",
+      "深綠色蔬菜（葉酸）：菠菜、青花菜（葉酸參與血清素合成）"
+    ],
+    "lifestyle_note_zh": "飲食介入對更年期情緒症狀的效果研究較少，但整體健康飲食模式（尤其地中海飲食）與情緒健康正相關",
+    "source": "Jacka FN et al. (2017) BMC Med. PMID: 28137247（飲食與抑鬱症 RCT）",
+    "_meta": { "last_updated": "2026-04-16" }
+  },
+  {
+    "id": "joint-pain",
+    "symptom_zh": "關節疼痛",
+    "prevalence_taiwan_zh": "更年期女性關節痛盛行率約 50–60%（衛福部國健署）",
+    "mechanism_zh": "雌激素有抗發炎作用，下降後全身性發炎指標（CRP、IL-6）上升。軟骨細胞（chondrocyte）也有雌激素受體，雌激素下降影響軟骨維護",
+    "trigger_foods_zh": [
+      "飽和脂肪（五花肉、炸物）",
+      "Omega-6 過多（大量葵花籽油、沙拉油）：促進發炎",
+      "高 AGEs 食物（烤焦、高溫油炸食物）"
+    ],
+    "helpful_foods_zh": [
+      "脂肪酸平衡：Omega-3（鯖魚、秋刀魚）與 Omega-6 比例 < 1:4",
+      "薑黃（curcumin）：台灣傳統薑黃粉加入咖哩、豆漿，有抗發炎效果",
+      "維生素 C 豐富水果：芭樂（228mg/100g，全球最高之一）促進膠原蛋白合成",
+      "膠原蛋白輔助（爭議）：雞腳湯等含明膠食物，效果研究結果不一"
+    ],
+    "source": "Felson DT & Cummings SR (2005) Arthritis Rheum. PMID: 15986348",
+    "_meta": { "last_updated": "2026-04-16" }
+  }
+]
